@@ -1,7 +1,9 @@
 # Data_Vis_Shiny_Proj
 Data visualization class - a shiny app exploring global human displacement
 
-This is a final 4-person group project for the data visualization class at columbia University in the QMSS department. The final app looks at global human displacement since the 1960s, with tabs dedicated to the following:
+This is a final 4-person group project for the data visualization class at columbia University in the QMSS department. The final app is published on the shinyapps server here: https://fatema-alhashemi.shinyapps.io/final_project_files/.
+
+The final app looks at global human displacement since the 1960s, with tabs dedicated to the following:
  - An overview of the increase in displacement over time
  - Mapping the top refugee origin and destination countries, as well as top countries for internal displacement
  - The phases of refugee displacement, caused by decolonization in the 60s to political instability in the 21st century
