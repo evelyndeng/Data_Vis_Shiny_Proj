@@ -1,0 +1,73 @@
+"","Year","Country","Displaced","Value"
+"1",2000,"Syria","Internally displaced",0
+"2",2000,"Yemen","Internally displaced",0
+"3",2001,"Syria","Internally displaced",0
+"4",2001,"Yemen","Internally displaced",0
+"5",2002,"Syria","Internally displaced",0
+"6",2002,"Yemen","Internally displaced",0
+"7",2003,"Syria","Internally displaced",0
+"8",2003,"Yemen","Internally displaced",0
+"9",2004,"Syria","Internally displaced",0
+"10",2004,"Yemen","Internally displaced",0
+"11",2005,"Syria","Internally displaced",0
+"12",2005,"Yemen","Internally displaced",0
+"13",2006,"Syria","Internally displaced",0
+"14",2006,"Yemen","Internally displaced",0
+"15",2007,"Syria","Internally displaced",0
+"16",2007,"Yemen","Internally displaced",77000
+"17",2008,"Syria","Internally displaced",0
+"18",2008,"Yemen","Internally displaced",1e+05
+"19",2009,"Syria","Internally displaced",0
+"20",2009,"Yemen","Internally displaced",250000
+"21",2010,"Syria","Internally displaced",0
+"22",2010,"Yemen","Internally displaced",220994
+"23",2011,"Syria","Internally displaced",0
+"24",2011,"Yemen","Internally displaced",347295
+"25",2012,"Syria","Internally displaced",2016500
+"26",2012,"Yemen","Internally displaced",385320
+"27",2013,"Syria","Internally displaced",6520800
+"28",2013,"Yemen","Internally displaced",306614
+"29",2014,"Syria","Internally displaced",7632500
+"30",2014,"Yemen","Internally displaced",334093
+"31",2015,"Syria","Internally displaced",6563462
+"32",2015,"Yemen","Internally displaced",2532032
+"33",2016,"Syria","Internally displaced",6325978
+"34",2016,"Yemen","Internally displaced",2025060
+"35",2017,"Syria","Internally displaced",6150005
+"36",2017,"Yemen","Internally displaced",2014062
+"37",2000,"Syria","Refugees",5871
+"38",2000,"Yemen","Refugees",2113
+"39",2001,"Syria","Refugees",4869
+"40",2001,"Yemen","Refugees",1985
+"41",2002,"Syria","Refugees",18913
+"42",2002,"Yemen","Refugees",1600
+"43",2003,"Syria","Refugees",20819
+"44",2003,"Yemen","Refugees",1597
+"45",2004,"Syria","Refugees",21434
+"46",2004,"Yemen","Refugees",1606
+"47",2005,"Syria","Refugees",16401
+"48",2005,"Yemen","Refugees",1325
+"49",2006,"Syria","Refugees",12337
+"50",2006,"Yemen","Refugees",1362
+"51",2007,"Syria","Refugees",13690
+"52",2007,"Yemen","Refugees",1632
+"53",2008,"Syria","Refugees",15211
+"54",2008,"Yemen","Refugees",1777
+"55",2009,"Syria","Refugees",17914
+"56",2009,"Yemen","Refugees",1934
+"57",2010,"Syria","Refugees",18452
+"58",2010,"Yemen","Refugees",2076
+"59",2011,"Syria","Refugees",19931
+"60",2011,"Yemen","Refugees",2323
+"61",2012,"Syria","Refugees",729022
+"62",2012,"Yemen","Refugees",2594
+"63",2013,"Syria","Refugees",2468331
+"64",2013,"Yemen","Refugees",2428
+"65",2014,"Syria","Refugees",3887490
+"66",2014,"Yemen","Refugees",2631
+"67",2015,"Syria","Refugees",4873242
+"68",2015,"Yemen","Refugees",15897
+"69",2016,"Syria","Refugees",5524375
+"70",2016,"Yemen","Refugees",18452
+"71",2017,"Syria","Refugees",6308619
+"72",2017,"Yemen","Refugees",23500
