@@ -13,4 +13,4 @@ My contributions to the project include:
  - the content found in the last tab "Explore on your own!"
  - setting up the Shiny app, merging group members' work into the app files (ui.r, server.r, global.r)
  
- 
+The main displacement data file migration.variables2.csv is a cleaned version of the UNHCR data on migration.
